@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<time.h>
 
+// this is number guess the number between 1 to 100
+
 int main(){
 int number , guess, nguesses =1;
 srand(time(0));
